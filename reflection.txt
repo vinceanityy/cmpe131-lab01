@@ -1,1 +1,3 @@
-ls
+Based on this lab, branches let software engineers work on new features or fixes in an isolated copy of the code without affecting the main branch. This makes collaboration easier because multiple people can work in parallel, commit safely, and then merge only when changes are ready. It prevents breaking the main codebase, reduces conflicts, and avoids pushing unfinished or risky changes directly into main.
+
+EOC
